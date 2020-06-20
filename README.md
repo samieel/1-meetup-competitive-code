@@ -14,6 +14,13 @@
 - Apresentação e resolução de problemas do URI relacionados à programação competitiva com Python e C++
 - Debate de ideias sobre ações da comunidade e sobre como vão ser os próximos encontros
 
+- [x] O que foi produzido?
+
+ [Questões do URI](codigos/)
+
+- [x] Links Importantes 
+ 1. [Algoritmos e Estruturas de Dados](https://pt.khanacademy.org/computing/computer-science)
+ 2. [Questão Desafio](https://www.urionlinejudge.com.br/judge/pt/problems/view/1176)
 
 - [x] O que ficou decidido?
 
