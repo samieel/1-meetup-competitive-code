@@ -22,3 +22,21 @@
 - Desenvolvimento do site da comunidade para alcançar mais pessoas, divulgar projetos e compartilhar conhecimento
 - Criação de artigos e posts colaborativos sobre temas por membros da comunidade
 - Apresentar desafios individuais e compartilhar os resultados
+
+- [x] Quem participou?
+
+- Jonathan Tavares 
+- Anderson Dantas
+- Charlez Bezerra
+- Henrique Lopes
+- Mirele Costa
+- Marismar Costa
+- Wesley Vitor
+- José Erildo
+- José Flávio
+- Eloísa Fernandes
+- Natan Costa
+- Deyvid Willian
+- Otton Maia 
+- Ítalo de Azevedo
+
