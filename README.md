@@ -4,6 +4,9 @@
 
 - 20/jun do ano de 2020 das 17h às 18h30
 
+- [x] Onde aconteceu?
+
+- No [Google Meet](https://meet.google.com/czn-stix-imm)
 
 - [x] O que foi abordado?
 
